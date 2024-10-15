@@ -1,4 +1,5 @@
 collections:
   tech-in-residence:
     output: true
-    order: []
+    order:
+      - TechInResidence.md
