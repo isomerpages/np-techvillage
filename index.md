@@ -4,12 +4,12 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Working towards solutions today for future City of tomorrow
 sections:
   - hero:
       title: TechVillage @ NP
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/Landing_5.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
