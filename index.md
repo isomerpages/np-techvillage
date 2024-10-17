@@ -19,4 +19,8 @@ sections:
         partners to drive multidisciplinary research.
       button: Button text
       url: /faq/
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
