@@ -4,28 +4,19 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Working towards solutions today for future City of tomorrow
+notification: ""
 sections:
   - hero:
       title: TechVillage @ NP
-      subtitle: Hero subtitle
+      subtitle: Working towards solutions today for future City of tomorrow
       background: /images/Landing_5.png
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
-      title: Infobar title
+      title: About
       subtitle: Subtitle
-      description: About a sentence worth of description here
+      description: The NP TechVillage serves as a hub for our industry and community
+        partners to drive multidisciplinary research.
       button: Button text
       url: /faq/
 ---
