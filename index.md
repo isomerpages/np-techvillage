@@ -12,6 +12,10 @@ sections:
       background: /images/Landing_5.png
       button: Contact Us
       url: /contact-us/
+      variant: floating
+      alignment: left
+      size: md
+      backgroundColor: gray
   - infobar:
       title: About
       subtitle: Subtitle
