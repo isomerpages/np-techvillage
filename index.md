@@ -24,7 +24,7 @@ sections:
       id: announcements
       subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: New Announcement
+        - title: 8world 义安理工学生开发预警器 降低脚踏车和行人碰撞风险
           date: 26 June 2021
           announcement: 8world 义安理工学生开发预警器 降低脚踏车和行人碰撞风险
           link_text: https://www.8world.com/singapore/np-sensor-1537581
