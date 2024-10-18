@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/NP_Logo_Full_Colour_Horizontal.jpg
 links:
   - title: Contact Us
     url: /contact-us/
