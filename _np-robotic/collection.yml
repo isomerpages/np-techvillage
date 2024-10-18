@@ -1,4 +1,5 @@
 collections:
   np-robotic:
     output: true
-    order: []
+    order:
+      - Home.md
