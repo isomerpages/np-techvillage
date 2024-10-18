@@ -19,8 +19,14 @@ sections:
         partners to drive multidisciplinary research.
       button: Button text
       url: /faq/
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
+  - announcements:
+      title: News
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 26 June 2021
+          announcement: 8world 义安理工学生开发预警器 降低脚踏车和行人碰撞风险
+          link_text: https://www.8world.com/singapore/np-sensor-1537581
+          link_url: https://www.8world.com/singapore/np-sensor-1537581
 ---
