@@ -4,3 +4,8 @@ links:
     url: /about/
   - title: Tech in Residence
     collection: tech-in-residence
+  - title: New menu group
+    url: /permalink
+    sublinks:
+      - title: Highlight
+        url: /highlight/
