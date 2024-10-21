@@ -5,7 +5,7 @@ links:
   - title: Tech in Residence
     collection: tech-in-residence
   - title: New menu group
-    url: /permalink
+    url: /highlights/
     sublinks:
       - title: Highlight
         url: /highlight/
