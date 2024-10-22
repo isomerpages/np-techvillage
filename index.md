@@ -16,5 +16,7 @@ sections:
       backgroundColor: gray
       dropdown:
         title: Tech-In-Residence
-        options: []
+        options:
+          - title: Hero Dropdown Element Title
+            url: /about/
 ---
