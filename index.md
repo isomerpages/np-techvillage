@@ -16,4 +16,8 @@ sections:
       alignment: left
       size: md
       backgroundColor: gray
+      key_highlights:
+        - title: NP Robotic
+          description: ""
+          url: ""
 ---
