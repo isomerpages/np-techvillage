@@ -2,4 +2,5 @@ collections:
   tech-in-residence:
     output: true
     order:
+      - About.md
       - TechInResidence.md
