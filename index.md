@@ -14,9 +14,6 @@ sections:
       alignment: left
       size: md
       backgroundColor: gray
-      dropdown:
-        title: Tech-In-Residence
-        options:
-          - title: Hero Dropdown Element Title
-            url: /about/
+      button: Highlights
+      url: /folders/tech-in-residence/
 ---
