@@ -2,5 +2,6 @@ collections:
   tech-in-residence:
     output: true
     order:
+      - Location Map.md
       - About.md
       - Rental Spaces.md
