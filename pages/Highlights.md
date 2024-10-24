@@ -11,6 +11,7 @@ description: ""
 </div>
 <p><a href="http://127.0.0.1:5500/Tech-in-residence.html" rel="noopener noreferrer nofollow" target="_blank"><u>Tech-in-residence</u></a>
 </p>
+<p>|Text1|Text2|Text3|Text4|</p>
 <p>&lt;img src="/images/Tech-in-residence.jpg"&nbsp;style="width:25%"&gt;
 <br>
 </p>
