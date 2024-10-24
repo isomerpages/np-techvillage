@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h5><strong>Industry partners can collaborate with NP by choosing one of the following 3 approaches.</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; vertical-align: middle; opacity: 1; display: block; width: 118.5px; height: auto; transition: 0.5s; backface-visibility: hidden;" height="auto" width="100%" alt="Tech-in-residence Logo" src="http://127.0.0.1:5500/img/Logo/Tech-in-residence.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tech_in_residence.png">
