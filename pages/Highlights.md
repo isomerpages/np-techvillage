@@ -8,6 +8,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; vertical-align: middle; opacity: 1; display: block; width: 118.5px; height: auto; transition: 0.5s; backface-visibility: hidden;" height="auto" width="100%" alt="Tech-in-residence Logo" src="http://127.0.0.1:5500/img/Logo/Tech-in-residence.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tech_in_residence.png">
+</div>
 <p><a href="http://127.0.0.1:5500/Tech-in-residence.html" rel="noopener noreferrer nofollow" target="_blank"><u>Tech-in-residence</u></a>
 </p>
 <p>
