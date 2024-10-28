@@ -7,6 +7,11 @@ description: ""
 <h5><strong>Industry partners can collaborate with NP by choosing one of the following 3 approaches.</strong></h5>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tech-in-residence Logo" src="http://127.0.0.1:5500/img/Logo/Tech-in-residence.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tech_in_residence.png">
 </div>
 <p><a href="http://127.0.0.1:5500/Tech-in-residence.html" rel="noopener noreferrer nofollow" target="_blank"><u>Tech-in-residence</u></a>
