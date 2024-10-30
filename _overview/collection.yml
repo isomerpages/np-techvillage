@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - About us.md
-      - my new Page.md
+      - Highlight.md
