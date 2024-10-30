@@ -12,7 +12,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tech_in_residence.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Tech_in_residence.png">
 </div>
 <p><a href="http://127.0.0.1:5500/Tech-in-residence.html" rel="noopener noreferrer nofollow" target="_blank"><u>Tech-in-residence</u></a>
 </p>
