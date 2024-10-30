@@ -1,5 +1,5 @@
 collections:
-  techvillage:
+  about:
     output: true
     order:
       - Main.md
