@@ -2,4 +2,5 @@ collections:
   techvillage:
     output: true
     order:
+      - my new.md
       - Main.md
