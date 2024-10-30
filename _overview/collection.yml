@@ -2,5 +2,6 @@ collections:
   overview:
     output: true
     order:
+      - Our Partners.md
       - About us.md
       - Highlight.md
