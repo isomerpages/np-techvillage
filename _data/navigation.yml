@@ -1,10 +1,10 @@
 logo: /images/NP_Logo_Full_Colour_Horizontal.jpg
 links:
+  - title: TechVillage
+    collection: techvillage
   - title: Tech in Residence
     collection: tech-in-residence
   - title: Highlights
     url: /highlights/
   - title: Our Partners
     url: /our-partners/
-  - title: TechVillage
-    collection: techvillage
