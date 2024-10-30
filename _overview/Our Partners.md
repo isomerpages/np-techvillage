@@ -4,4 +4,4 @@ permalink: /our-partners/
 variant: markdown
 description: ""
 ---
-<p>Hi</p>
+<p>Industry partners can collaborate with NP by choosing one of the following 3 approaches.</p>
