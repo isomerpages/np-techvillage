@@ -2,5 +2,5 @@ collections:
   overview:
     output: true
     order:
-      - Main.md
+      - About us.md
       - my new Page.md
