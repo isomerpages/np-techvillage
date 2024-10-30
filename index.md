@@ -14,6 +14,4 @@ sections:
       alignment: left
       size: md
       backgroundColor: gray
-      button: Highlights
-      url: /folders/tech-in-residence/
 ---
