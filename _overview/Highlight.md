@@ -9,4 +9,4 @@ description: ""
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| Meet new healthcare Hiro  | ![](/images/Tech_in_residence.png )(style="width:50%")  | Text     |
+| <img style="width:50%" src="/images/Tech_in_residence.png">  | ![](/images/Tech_in_residence.png )(style="width:50%")  | Text     |
