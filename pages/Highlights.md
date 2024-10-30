@@ -17,7 +17,12 @@ description: ""
 <p><a href="http://127.0.0.1:5500/Tech-in-residence.html" rel="noopener noreferrer nofollow" target="_blank"><u>Tech-in-residence</u></a>
 </p>
 <p>|Text1|Text2|Text3|Text4|</p>
-<p>&lt;img src="/images/Tech-in-residence.jpg"&nbsp;style="width:25%"&gt;
+<p>&lt;img src="/images/Tech-in-residence.jpg"&nbsp;style="width:25%"&gt;</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GyjshNux67U?si=0mljSmdrqYm3u8Jx"></iframe>
+</div>
+<p>
 <br>
 </p>
 <p></p>
