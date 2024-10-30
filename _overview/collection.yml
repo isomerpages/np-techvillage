@@ -1,5 +1,5 @@
 collections:
-  about:
+  overview:
     output: true
     order:
       - Main.md
