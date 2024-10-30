@@ -4,10 +4,10 @@ permalink: /highlight/
 variant: markdown
 description: ""
 ---
-```
 
-```
+##### Industry partners can collaborate with NP by choosing one of the following 3 approaches.
+<img src="/images/Tech_in_residence.png">
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| Meet new healthcare Hiro  | Text     | Text     |
+| Meet new healthcare Hiro  | ![](/images/Tech_in_residence.png )(style="width:50%")  | Text     |
