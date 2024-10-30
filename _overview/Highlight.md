@@ -9,6 +9,5 @@ description: ""
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| <img style="width:100%" src="/images/Tech_in_residence.png">  | <img style="width:100%" src="/images/Partnerships.png">   | <img style="width:100%" src="/images/CSR_Lab.png">  _<a href="https://guide.isomer.gov.sg">_   |
+| <img style="width:100%" src="/images/Tech_in_residence.png">  | <img style="width:100%" src="/images/Partnerships.png">   | <img style="width:100%" src="/images/CSR_Lab.png">   |
 |  |  |  |
-</a>
