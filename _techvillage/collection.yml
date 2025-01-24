@@ -2,7 +2,7 @@ collections:
   techvillage:
     output: true
     order:
-      - NewsGallery.md
-      - Industry Partners.md
-      - Highlights.md
       - About.md
+      - Highlights.md
+      - Industry Partners.md
+      - NewsGallery.md
