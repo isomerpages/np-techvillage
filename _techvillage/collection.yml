@@ -2,4 +2,5 @@ collections:
   techvillage:
     output: true
     order:
+      - Highlights.md
       - About.md
