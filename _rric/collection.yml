@@ -1,0 +1,4 @@
+collections:
+  rric:
+    output: true
+    order: []
