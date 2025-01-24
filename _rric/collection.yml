@@ -2,4 +2,5 @@ collections:
   rric:
     output: true
     order:
+      - Capabilities.md
       - About.md
