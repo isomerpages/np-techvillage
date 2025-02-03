@@ -2,4 +2,5 @@ collections:
   advanced-manufacturing-tech:
     output: true
     order:
+      - Capabilities.md
       - About.md
