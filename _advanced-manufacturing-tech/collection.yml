@@ -2,5 +2,6 @@ collections:
   advanced-manufacturing-tech:
     output: true
     order:
+      - Projects Events.md
       - About.md
       - Capabilities.md
