@@ -1,4 +1,5 @@
 collections:
   advanced-manufacturing-tech:
     output: true
-    order: []
+    order:
+      - About.md
