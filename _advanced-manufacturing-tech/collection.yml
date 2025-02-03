@@ -2,8 +2,8 @@ collections:
   advanced-manufacturing-tech:
     output: true
     order:
-      - Contacts.md
-      - AMCOI.md
-      - Projects Events.md
       - About.md
       - Capabilities.md
+      - Projects Events.md
+      - AMCOI.md
+      - Contacts.md
