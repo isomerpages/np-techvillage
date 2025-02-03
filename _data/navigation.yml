@@ -4,7 +4,5 @@ links:
     collection: techvillage
   - title: RRIC
     collection: rric
-  - title: Highlights
-    url: /highlights/
-  - title: Our Partners
-    url: /our-partners/
+  - title: Advanced Manufacturing-tech
+    collection: advanced-manufacturing-tech
