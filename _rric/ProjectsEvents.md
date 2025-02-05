@@ -17,11 +17,11 @@ description: ""
 <ol start="2">
 <li>
 <p>SPF Community Engagement Robot</p>
+<p><a href="https://www.8world.com/singapore/police-deploy-ai-robots-2508401" rel="noopener nofollow" target="_blank">SPF Community Engagement Robot</a>
+</p>
 <p></p>
-<p>&lt;&nbsp;</p>
 </li>
 </ol>
-<p><a href="https://youtu.be/DctfLwLxwM4" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.8world.com/singapore/police-deploy-ai-robots-2508401</u></a> &gt;</p>
 <ol start="3">
 <li>
 <p>Healthcare Assistive Robot for Frontline Infection Control [HIRO]</p>
