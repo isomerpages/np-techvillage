@@ -36,9 +36,7 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_tVPXmNRhuI?si=J_dAppLhYicJElaV"></iframe>
 </div>
-</li>
-<li>
-<p>&lt;<a href="https://youtu.be/DctfLwLxwM4" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/_tVPXmNRhuI</u></a>&gt;&nbsp;</p>
+<p></p>
 </li>
 </ol>
 <p></p>
