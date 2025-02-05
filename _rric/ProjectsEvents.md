@@ -16,7 +16,6 @@ description: ""
 </ol>
 <ol start="2">
 <li>
-<p>SPF Community Engagement Robot</p>
 <p><a href="https://www.8world.com/singapore/police-deploy-ai-robots-2508401" rel="noopener nofollow" target="_blank">SPF Community Engagement Robot</a>
 </p>
 <p></p>
