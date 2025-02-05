@@ -27,9 +27,7 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/147NZ0Vi6ds?si=0g4yq9wzbk5fisKv"></iframe>
 </div>
-</li>
-<li>
-<p>&lt; <a href="https://youtu.be/DctfLwLxwM4" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/147NZ0Vi6ds</u></a>&gt;&nbsp;</p>
+<p></p>
 </li>
 </ol>
 <ol start="4">
