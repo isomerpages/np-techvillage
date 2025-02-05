@@ -2,7 +2,7 @@ collections:
   rric:
     output: true
     order:
-      - COIBERA.md
       - About.md
       - Capabilities.md
       - ProjectsEvents.md
+      - COIBERA.md
