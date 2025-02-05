@@ -8,7 +8,7 @@ description: ""
 <li>
 <p>3D Space Cleaning Robot</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DctfLwLxwM4?si=-oFpmcx9gINcEKPd"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DctfLwLxwM4?si=nwhEuJmYL0aPzBA_"></iframe>
 </div>
 <p></p>
 <p></p>
@@ -16,11 +16,12 @@ description: ""
 </ol>
 <ol start="2">
 <li>
-<p>SPF Community Engagement Robot &lt;&nbsp;</p>
+<p>SPF Community Engagement Robot</p>
+<p></p>
+<p>&lt;&nbsp;</p>
 </li>
 </ol>
-<p><a href="https://youtu.be/DctfLwLxwM4" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.8world.com/singapore/police-deploy-ai-robots-2508401</u></a> &gt;
-[possible to extract just the video?]&nbsp;</p>
+<p><a href="https://youtu.be/DctfLwLxwM4" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.8world.com/singapore/police-deploy-ai-robots-2508401</u></a> &gt;</p>
 <ol start="3">
 <li>
 <p>Healthcare Assistive Robot for Frontline Infection Control [HIRO]</p>
