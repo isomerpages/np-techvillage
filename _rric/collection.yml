@@ -2,6 +2,7 @@ collections:
   rric:
     output: true
     order:
+      - RRIC Contact.md
       - About RRIC.md
       - Capabilities.md
       - ProjectsEvents.md
