@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Mfg.md
-      - Capabilities.md
+      - Mfg Capabilities.md
       - Projects Events.md
       - AMCOI.md
       - Mfg Contacts.md
