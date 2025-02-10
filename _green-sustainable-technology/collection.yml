@@ -2,4 +2,5 @@ collections:
   green-sustainable-technology:
     output: true
     order:
+      - Sustn Capabilities.md
       - About Sustn.md
