@@ -1,5 +1,5 @@
 collections:
-  advanced-manufacturing-tech:
+  adv-manufacturing-automation:
     output: true
     order:
       - About Advanced Manufacturing.md
