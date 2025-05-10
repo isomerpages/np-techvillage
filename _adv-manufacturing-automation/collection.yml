@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Advanced Manufacturing.md
-      - Mfg Capabilities.md
+      - Capabilities.md
       - Mfg Projects Events.md
       - AMCOI.md
       - Mfg Contacts.md
