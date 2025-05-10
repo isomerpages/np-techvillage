@@ -2,7 +2,7 @@ collections:
   green-sustainable-technology:
     output: true
     order:
-      - Contact.md
       - About Green Sustainable Tech.md
       - Capabilities.md
       - Success Stories.md
+      - Contact.md
