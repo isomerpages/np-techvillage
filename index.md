@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: School of Engineering
 description: An Isomer site of the Singapore Government
 image: /images/Landing_5.png
 permalink: /
