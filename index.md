@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: School of Engineering
-description: An Isomer site of the Singapore Government
+description: A site belonging to Ngee Ann Polytechnic's School of Engineering,
+  showcasing its technical expertise.
 image: /images/Landing_5.png
 permalink: /
 notification: ""
