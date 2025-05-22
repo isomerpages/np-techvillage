@@ -2,7 +2,7 @@ collections:
   adv-manufacturing-automation:
     output: true
     order:
-      - About Advanced Manufacturing.md
+      - About.md
       - Capabilities.md
       - Projects Highlights.md
       - AMCOI.md
