@@ -2,7 +2,7 @@ collections:
   rric:
     output: true
     order:
-      - About RRIC.md
+      - About.md
       - Capabilities.md
       - Projects Highlights.md
       - COI BERA.md
