@@ -3,7 +3,7 @@ url: https://www.np.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#0856a1"
-  secondary-color: "#8b572a"
+  secondary-color: "#f5a623"
   media-colors:
     - title: media-color-one
       color: "#49759a"
