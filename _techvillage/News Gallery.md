@@ -9,7 +9,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ambassador_robot.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ambassador Robot" src="/images/ambassador_robot.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -17,11 +17,11 @@ description: ""
 <div class="isomer-card-description">NP launches Robotics Research &amp; Innovation Centre.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://allisonpr.app.box.com/s/b2v2fvzxaqr0fm7kqojucvuzpxb25x2b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lianhe Zaobao 13th Oct 2021</div><div class="isomer-card-description">义安理工与新保集团开发多功能机器人会消毒提醒公众戴口罩。</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://allisonpr.app.box.com/s/b2v2fvzxaqr0fm7kqojucvuzpxb25x2b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="机器人会消毒" src="/images/.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lianhe Zaobao 13th Oct 2021</div><div class="isomer-card-description">义安理工与新保集团开发多功能机器人会消毒提醒公众戴口罩。</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tnp.sg/news/singapore/robot-hiro-complements-nurses-tampines-polyclinic" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Frontline_Infection_Control.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Frontline infection Control" src="/images/Frontline_Infection_Control.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
