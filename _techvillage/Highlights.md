@@ -22,21 +22,20 @@ at our co-working spaces.&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/logo_MooVita_1.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Founded in 2016, MooVita is a high-tech start-up which specialises in
 providing "vehicle agnostic" driverless software solutions for the urban
 environment. An emerging leader in this area, the company is headquartered
 in Singapore, and has offices in Malaysia and India. MooVita is developing
 an industry-leading component-based driverless software solution that is
 set to transform the transportation industry.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
