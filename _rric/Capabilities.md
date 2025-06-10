@@ -25,9 +25,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Motion_blue.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Robot Motions and Control&nbsp;</p>
@@ -36,9 +33,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Automation_blue.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>System Automation and Design</p>
@@ -47,9 +41,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/intelligence_blue.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Robot Intelligence</p>
@@ -58,9 +49,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interface_blue.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Robot connectivity and Interface</p>
