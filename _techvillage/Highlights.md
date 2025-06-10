@@ -12,8 +12,9 @@ at our co-working spaces.&nbsp;</p>
 <p>Add the following without the NP Focus Area.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exsiting_partners.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/existing_partners_240513.png">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -58,21 +59,16 @@ with industry, both locally and globally.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EWTCOI.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cfes.gif">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Environmental &amp; Water Technology Centre of Innovation (EWTCOI)
-was set up in October 2006 as a strategic collaboration between SPRING
-Singapore (SPRING) (now known as Enterprise Singapore) and Ngee Ann Polytechnic
-(NP). Its mission is to partner strategic industry sectors in applied R&amp;D
-and consultancy projects to translate ideas into practical solutions or
-innovations for a sustainable environment.
-<br>
-<br>Small and Medium Enterprises (SMEs) that seek practical and market-driven
-technology solutions can tap on the Centre’s expertise and resources in
-four areas: Water Technology, Sustainable Materials Technology, Energy
-Efficiency Technology and Membrane Technology.</p>
+<p>Ngee Ann Polytechnic (NP)’s Centre for Environmental Sustainability (CfES)
+drives industry partnership for green solutions and talent development
+as part of NP’s Sustainability Education &amp; Ecosystem Development (SEED)
+initiative. CfES is intent on doing our part to forge strategic alliances
+with partners not only to innovate sustainable solutions but to upskill
+industry professionals to achieve their organisations’ green targets.</p>
 </td>
 </tr>
 </tbody>
