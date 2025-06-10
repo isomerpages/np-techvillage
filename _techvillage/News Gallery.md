@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=W8GWBNyBCF0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Hiro.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CNA 12th Oct 2021</div><div class="isomer-card-description">SingHealth, NP develop robot to ease manpower woes</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=W8GWBNyBCF0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hiro" src="/images/Hiro.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CNA 12th Oct 2021</div><div class="isomer-card-description">SingHealth, NP develop robot to ease manpower woes</div><div class="isomer-card-link">This is a link</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
