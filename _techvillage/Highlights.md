@@ -71,6 +71,25 @@ with partners not only to innovate sustainable solutions but to upskill
 industry professionals to achieve their organisations’ green targets.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YGT_Primary_Gradient_Colour_Logo_CMYK_PNG.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yinson GreenTech (YGT) and Ngee Ann Polytechnic (NP) has set-up a green
+energy infrastructure on NP’s campus comprising an IoT-enabled smart energy
+management technology centre called synergy.lab, a solar farm and electric
+vehicle (EV) charging facilities powered by renewable energy. The synergy.lab
+serves as an integrated ‘control centre’ for the various smart mobility
+technologies on campus, incorporating advanced data analysis and simulation
+capabilities. The lab facilitates research to enhance the ecosystem’s efficiency
+by monitoring and analysing data such as solar power generation, as well
+as EV charging load and energy consumption.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
