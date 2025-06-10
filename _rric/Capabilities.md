@@ -5,10 +5,69 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RRIC.png">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Perception_blue.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>Robot Perceptions and Vision Systems</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Motion_blue.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robot Motions and Control&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Automation_blue.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>System Automation and Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/intelligence_blue.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robot Intelligence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interface_blue.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robot connectivity and Interface</p>
+</td>
+</tr>
+</tbody>
+</table>
 <ol>
 <li>
 <p>Robot Perceptions and Vision Systems&nbsp;</p>
