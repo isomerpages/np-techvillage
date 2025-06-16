@@ -32,9 +32,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Perception_blue_7.png">
-</div>
 <p>Robot Motions and Control&nbsp;</p>
 </td>
 </tr>
