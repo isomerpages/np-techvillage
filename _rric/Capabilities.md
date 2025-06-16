@@ -61,26 +61,46 @@ description: ""
 </table>
 <ol>
 <li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Perception_blue.png">
+</div>
 <p>Robot Perceptions and Vision Systems&nbsp;</p>
 </li>
 </ol>
 <ol start="2">
 <li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Motion_blue.jpg">
+</div>
 <p>Robot Motions and Control&nbsp;</p>
 </li>
 </ol>
 <ol start="3">
 <li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Automation_blue.jpg">
+</div>
 <p>System Automation and Design&nbsp;</p>
 </li>
 </ol>
 <ol start="4">
 <li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/intelligence_blue.jpg">
+</div>
 <p>Robot Intelligence&nbsp;</p>
 </li>
 </ol>
 <ol start="5">
 <li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interface_blue.jpg">
+</div>
 <p>Robot connectivity and Interface&nbsp;</p>
 </li>
 </ol>
