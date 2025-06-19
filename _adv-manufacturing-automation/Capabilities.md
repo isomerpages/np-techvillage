@@ -19,7 +19,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/i5_0_blue.png">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/i5_0_blue.png">
 </div>
 </th>
 <th rowspan="1" colspan="2">
@@ -30,7 +30,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/automation_blue.png">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/automation_blue.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -41,7 +41,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/IoT_blue.png">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/IoT_blue.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -52,7 +52,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/smartsystem_blue.png">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/smartsystem_blue.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
