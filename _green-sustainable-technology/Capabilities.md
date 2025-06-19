@@ -20,6 +20,8 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>Battery Management systems&nbsp;</p>
 </th>
 </tr>
@@ -31,6 +33,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>Thermal energy&nbsp;</p>
 </td>
 </tr>
@@ -42,6 +46,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>Fuel Cell Technology&nbsp;</p>
 </td>
 </tr>
@@ -53,6 +59,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>Smart Grids&nbsp;</p>
 </td>
 </tr>
@@ -64,6 +72,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>Water recycling&nbsp;</p>
 </td>
 </tr>
