@@ -26,6 +26,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Themal_energy_2_blue.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="2">
 <p>Thermal energy&nbsp;</p>
