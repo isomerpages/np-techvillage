@@ -4,7 +4,6 @@ permalink: /capabilities-rric/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
