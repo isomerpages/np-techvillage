@@ -20,6 +20,8 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>Robot Perceptions and Vision Systems</p>
 </th>
 </tr>
@@ -32,6 +34,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
+<p></p>
 <p>Robot Motions and Control&nbsp;</p>
 </td>
 </tr>
@@ -43,6 +46,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>System Automation and Design</p>
 </td>
 </tr>
@@ -54,6 +59,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>Robot Intelligence</p>
 </td>
 </tr>
@@ -65,6 +72,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>Robot connectivity and Interface</p>
 </td>
 </tr>
