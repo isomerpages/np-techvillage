@@ -23,6 +23,8 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>Industry 5.0&nbsp;</p>
 </th>
 </tr>
@@ -34,6 +36,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>Automation&nbsp;</p>
 </td>
 </tr>
@@ -45,6 +49,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>IoT&nbsp;</p>
 </td>
 </tr>
@@ -56,6 +62,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <p>Smart Systems&nbsp;</p>
 </td>
 </tr>
