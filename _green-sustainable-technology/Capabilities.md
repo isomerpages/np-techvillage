@@ -15,6 +15,9 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/battsystem_blue.png">
+</div>
 </th>
 <th rowspan="1" colspan="2">
 <p>Battery Management systems&nbsp;</p>
@@ -32,7 +35,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/fuel_cell_blue.png">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/fuel_cell_blue.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -42,6 +45,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/smart_grid_blue.png">
+</div>
 </td>
 <td rowspan="1" colspan="2">
 <p>Smart Grids&nbsp;</p>
@@ -50,6 +56,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/water_cycle_blue.png">
+</div>
 </td>
 <td rowspan="1" colspan="2">
 <p>Water recycling&nbsp;</p>
