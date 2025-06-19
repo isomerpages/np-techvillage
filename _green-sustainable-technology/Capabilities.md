@@ -31,6 +31,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/fuel_cell_blue.png">
+</div>
 </td>
 <td rowspan="1" colspan="2">
 <p>Fuel Cell Technology&nbsp;</p>
