@@ -14,9 +14,6 @@ can co-develop and integrate smart technologies to automate processes,
 meet increasing capacity demand, improve construction safety and enhance
 their competitive advantage.&nbsp;</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pM6DVM-3eBo?si=UazUFKXJbab9tUv-"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pM6DVM-3eBo?si=ksu-w50Dwgxzb4QQ"></iframe>
 </div>
 <p></p>
-<p><a href="https://youtu.be/pM6DVM-3eBo?si=6TDLsLLASnNmqY9X" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/pM6DVM-3eBo?si=6TDLsLLASnNmqY9X</a>
-</p>
-<p>&lt;<a href="https://youtu.be/pM6DVM-3eBo" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/pM6DVM-3eBo</u></a>&gt;&nbsp;</p>
