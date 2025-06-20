@@ -37,7 +37,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&lt;img src="/images/Motion_blue.jpg"&nbsp;style="width:10%"&gt;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
