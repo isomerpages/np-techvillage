@@ -14,4 +14,12 @@ description: ""
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Motion_blue.jpg">
 </div>
 <p>Robot Motions and Control</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Automation_blue.jpg">
+</div>
+</li>
+</ul>
 <p></p>
