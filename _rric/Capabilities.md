@@ -20,6 +20,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Automation_blue.jpg">
 </div>
+<p>System Automation and Design</p>
 </li>
 </ul>
 <p></p>
