@@ -55,6 +55,16 @@ description: ""
 <h4>System Automation and Design</h4>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Interface_blue.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="5">
+<h4>Robot Connectivity &amp; Interface</h4>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
