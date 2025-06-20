@@ -17,5 +17,6 @@ their competitive advantage.&nbsp;</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pM6DVM-3eBo?si=UazUFKXJbab9tUv-"></iframe>
 </div>
 <p></p>
-<p></p>
+<p><a href="https://youtu.be/pM6DVM-3eBo?si=6TDLsLLASnNmqY9X" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/pM6DVM-3eBo?si=6TDLsLLASnNmqY9X</a>
+</p>
 <p>&lt;<a href="https://youtu.be/pM6DVM-3eBo" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/pM6DVM-3eBo</u></a>&gt;&nbsp;</p>
