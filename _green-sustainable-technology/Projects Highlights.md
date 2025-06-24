@@ -4,14 +4,7 @@ permalink: /sustn-projects-events/
 variant: tiptap
 description: ""
 ---
-<ol>
-<li>
-<p>Battery performance monitoring and analysis using LabVIEW&nbsp;</p>
-</li>
-</ol>
-<ol start="2">
-<li>
-<p>SunLab&nbsp;</p>
-</li>
-</ol>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/swHeoKwJYj0?si=a1eI-sXMna40es8W"></iframe>
+</div>
 <p></p>
